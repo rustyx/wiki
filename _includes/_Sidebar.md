@@ -15,6 +15,8 @@
   - [Wallet Remote Access](Wallet-Remote-Access)
   - [Network Config](Network-Configuration)
   - [Docker](Docker)
+- [Parity Signer App](Parity-Signer)
+  - [Parity Signer tutorial w/ MyCypto](Parity-Signer-MyCrypto-tutorial)
 - [Public Node](Public-Node)
   - [Wallet.Parity.Io](Wallet.Parity.Io)
 - [Community Guides](Community-Guides)
