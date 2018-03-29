@@ -1,6 +1,14 @@
 # Parity Signer tutorial with MyCrypto
 
+
 This tutorial will walk through setting up an account with Parity Signer Android or iOs app and sign a transaction on [MyCrypto](https://mycrypto.com/) to transfer Ether from one account to another.
+
+## Summary
+- [1. Get Parity Signer App](#1-get-parity-signer-app)
+- [2. Setup or recover an account](#2-setup-or-recover-an-account)
+  - [Create an account](#create-an-account)
+  - [Recover an account with your recovery phrase](#recover-an-account)
+- [3. Sign a transaction on MyCrypto](#3-sign-a-transaction-on-mycrypto)
 
 ## 1. Get Parity Signer App
 Get a Smartphone and install the Parity Signer app making sure that it originated from **Parity Technologies**
@@ -9,10 +17,9 @@ Get a Smartphone and install the Parity Signer app making sure that it originate
 
 ## 2. Setup or recover an account
 When launching the app for the first time, no account have been setup yet. At this stage, you will either want to create an account directly from your mobile or recover an account already created in with Parity Signer app or [Parity Wallet](https://wiki.parity.io/Parity-Wallet) (Desktop)
-
+ 
 ### Create an account
-
-
+ 
 Click on `create account` or `add` in the top right corner, you will be asked to select an image for your account.
 
 In the next step, you will be presented your newly created address with your recovery phrase.
@@ -26,12 +33,12 @@ You will then be able to enter a pin number of your choice. This pin will be nee
 
 ### Recover an account with your recovery phrase
 
-
 If you already created an account using either Parity Signer or Parity Ethereum Client, and you wish to recover it, you will want to:
 - Click on `create account` or `add` in the top right corner
 - Select an image
 - Replace the given recovery phrase manually with the one from the account you want to recover
 - Set up the pin
+
 
 ## 3. Sign a transaction on MyCrypto
 
