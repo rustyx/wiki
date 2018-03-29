@@ -1,22 +1,22 @@
-# Parity Mobile Signer App tutorial with MyCrypto
+# Parity Signer Mobile App tutorial with MyCrypto
 
 
-This tutorial will walk through setting up an account with Parity Signer Android or iOs app and sign a transaction on [MyCrypto](https://mycrypto.com/) to transfer Ether from one account to another.
+This tutorial will walk through setting up an account with Parity Signer Android or iOs App and sign a transaction on [MyCrypto](https://mycrypto.com/) to transfer Ether from one account to another.
 
 ## Summary
-- [1. Get Parity Mobile Signer App](#1-get-parity-mobile-signer-app)
+- [1. Get Parity Signer Mobile App](#1-get-parity-signer-mobile-app)
 - [2. Setup or recover an account](#2-setup-or-recover-an-account)
   - [Create an account](#create-an-account)
   - [Recover an account with your recovery phrase](#recover-an-account)
 - [3. Sign a transaction on MyCrypto](#3-sign-a-transaction-on-mycrypto)
 
-## 1. Get Parity Mobile Signer App
-Get a Smartphone and install the Parity Mobile Signer app making sure that it originated from **Parity Technologies**
+## 1. Get Parity Signer Mobile App
+Get a Smartphone and install the Parity Signer Mobile App making sure that it originated from **Parity Technologies**
 - [Android](https://play.google.com/store/apps/details?id=com.nativesigner)
 - [iOs](https://itunes.apple.com/us/app/parity-signer/id1218174838)
 
 ## 2. Setup or recover an account
-When launching the app for the first time, no account have been setup yet. At this stage, you will either want to create an account directly from your mobile or recover an account already created in with Parity Mobile Signer app or [Parity Wallet](https://wiki.parity.io/Parity-Wallet) (Desktop)
+When launching the app for the first time, no account has been setup yet. At this stage, you will either want to create an account directly from your mobile device or recover an account already created in with Parity Signer Mobile App or [Parity Wallet](https://wiki.parity.io/Parity-Wallet) (Desktop)
  
 ### Create an account
  
@@ -33,7 +33,7 @@ You will then be able to enter a pin number of your choice. This pin will be nee
 
 ### Recover an account with your recovery phrase
 
-If you already created an account using either Parity Mobile Signer or Parity Ethereum Client, and you wish to recover it, you will want to:
+If you already created an account using either Parity Signer Mobile App or Parity Ethereum Client, and you wish to recover it, you will want to:
 - Click on `create account` or `add` in the top right corner
 - Select an image
 - Replace the given recovery phrase manually with the one from the account you want to recover
@@ -42,7 +42,7 @@ If you already created an account using either Parity Mobile Signer or Parity Et
 
 ## 3. Sign a transaction on MyCrypto
 
-To be able to follow this tutorial and send Ether from a Parity Mobile Signer account, you will obviously need to get some Ethers on this account. Use the account address or the QR code available on your account main view to get Ether.
+To be able to follow this tutorial and send Ether from a Parity Signer Mobile App account, you will obviously need to get some Ethers on this account. Use the account address or the QR code available on your account main view to get Ether.
 
 Assuming that your account now has funds, you will be able to send securely some Ethers to anyone, without transfering your private key, and without needing any internet connection on your mobile phone.
 
@@ -66,7 +66,7 @@ You will now be presented with a QR quode that represents the transaction from y
 
 ![create account](images/Parity-Signer-android-1.png)
 
-Your phone has now *signed the transaction offline* using your Parity Mobile Signer account private key. The QR code that is now on your phone represents a signed transaction that can be broadcasted. Will will do this in the next steps.
+Your phone has now *signed the transaction offline* using your Parity Signer Mobile App account private key. The QR code that is now on your phone represents a signed transaction that can be broadcasted. Will will do this in the next steps.
 - On MyCrypto, click on `scan`
 - Allow the website to access your webcam
 - Show your phone to your webcam for MyCrypto to be able to read the signed transaction
