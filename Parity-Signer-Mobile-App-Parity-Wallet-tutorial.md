@@ -20,7 +20,7 @@ Get a Smartphone and install the Parity Signer Mobile App making sure that it or
 - [Android](https://play.google.com/store/apps/details?id=com.nativesigner)
 - [iOs](https://itunes.apple.com/us/app/parity-signer/id1218174838)
 
-<br/>
+<br\>
 ## 2. Setup or recover an account
 When launching the app for the first time, no account has been set up yet. At this stage, you will either want to create an account directly from your mobile device or recover an account already created in with Parity Signer Mobile App or [Parity Wallet](https://wiki.parity.io/Parity-Wallet) (Desktop)
  
@@ -45,7 +45,7 @@ If you already created an account using either Parity Signer Mobile App or Parit
 - Replace the given recovery phrase manually with the one from the account you want to recover.
 - Set up a pin code.
 
-<br/>
+<br\>
 ## 3. Attach a Parity Signer Mobile App account to Parity Wallet
 
 Follow [these steps](https://wiki.parity.io/Parity-Wallet) to install and launch Parity Wallet.
@@ -61,7 +61,7 @@ Once Parity Ethereum Client is running and fully synced, you will be able to wat
 
 ![Watch account parity wallet parity signer app](images/Parity-Signer-Mobile-App-Watch-Account-with-Parity-Wallet.gif)
 
-<br/>
+<br\>
 ## 4. Send funds from another account to your Parity Signer Mobile App account
 
 Your account is now created on your offline mobile device, you can watch it on your computer with Parity Wallet, but it has no funds yet. We will now send Ethers from another account to your Parity Signer Mobile App account. This can be achieved entirely using Parity Wallet on your computer. To do so:
@@ -76,7 +76,7 @@ Your account is now created on your offline mobile device, you can watch it on y
 
 ![Send funds between accounts Parity Wallet](images/Parity-Wallet-send-funds-to-account.gif)
 
-<br/>
+<br\>
 ## 5. Sign a transaction on Parity Wallet
 
 Now that we have funds on your freshly created Parity Signer Mobile App account, you will be able to transfer these to any Ethereum address of your choice without transferring your private key onto your computer, and without needing any internet connection on your mobile phone.
