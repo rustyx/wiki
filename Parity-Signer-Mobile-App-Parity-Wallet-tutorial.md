@@ -64,12 +64,12 @@ Once Parity Ethereum Client is running and fully synced, you will be able to wat
 
 ## 4. Send funds from another account to your Parity Signer Mobile App account
 
-Your account is now created on your offline mobile device, you can watch it on your computer with Parity Wallet, but it has no funds yet. We will now send Ethers from another account to your Parity Signer Mobile App account. This can be achieved entirely using Parity Wallet on your computer. To do so:
+Your account is now created on your offline mobile device, you can watch it on your computer with Parity Wallet, but it has no funds yet. We will now send Ether from another account to your Parity Signer Mobile App account. This can be achieved entirely using Parity Wallet on your computer. To do so:
 
 - On your computer on Parity UI, navigate to Parity Wallet>Accounts.
-- Select the account that contains Ethers and you wish to send Ether from.
+- Select the account that contains Ether and you wish to send Ether from.
 - Click on `Transfer`.
-- Select the Parity Signer Mobile Account as the receiver and the amount of Ethers you wish to send.
+- Select the Parity Signer Mobile Account as the receiver and the amount of Ether you wish to send.
 - Click `Send`.
 - Enter your Parity Wallet password for the sender account.
 - Wait a couple seconds for the transaction to get mined.
@@ -82,19 +82,18 @@ Your account is now created on your offline mobile device, you can watch it on y
 Now that we have funds on your freshly created Parity Signer Mobile App account, you will be able to transfer these to any Ethereum address of your choice without transferring your private key onto your computer, and without needing any internet connection on your mobile phone.
 
 To do so :
-- On your computer, in Parity UI, navigate to Parity Wallet>Accounts and select the Parity Signer Mobile app account we added previously.
+- On your computer, in Parity UI, navigate to Parity Wallet>Accounts and select the Parity Signer Mobile App account we added previously.
 - Click on `Transfer`.
-- Type the address or select the account you wish to send Ethers to and the amount.
+- Type the address or select the account you wish to send Ether to and the amount.
 - Click `Send`.
 - Parity UI will now display a QR code, this is the transaction that needs to be signed using the Parity Signer Mobile App.
 
 ![Parity Wallet QR code pending transaction offline signing](images/Parity-wallet-QR-pending-transaction.jpg)
 
 The following steps need to be performed on your mobile device :
-- On Parity Signer Mobile App, select the same account as the one selected on Parity Wallet on your computer.
-- Select `Scan Transaction QR`and scan the QR code displayed by Parity Wallet on your computer screen.
-- On Parity Signer Mobile App, review carefully the transaction addresses and the amount to send.
-- Make sure everything matches, if you got phished, this is where you can realize and reject the transaction!
+- On Parity Signer Mobile App, click on `Scan Transaction QR`.
+- Scan the QR code displayed by Parity Wallet on your computer screen.
+- On Parity Signer Mobile App, review carefully the transaction addresses and the amount to send, they must match with what you've entered in Parity Wallet, in case of pishing, this is where you can realize and reject the transaction.
 - Once you're sure that the transaction is correct, scroll down and click `Next` to enter your pin.
 - A signed transaction QR code will be displayed on your mobile screen.
 
@@ -105,6 +104,6 @@ Your phone has now *signed the transaction offline*. The QR code that is now dis
 - Face your phone's display to your webcam for Parity Wallet to be able to read the signed transaction QR code.
 - Verify one last time that the account addresses are correct as well as the transfer amount.
 - Click on `Send` on Parity Wallet from your computer.
-- Congrats you just sent Ethers from an air-gapped account :)
+- Congrats you just sent Ether from an air-gapped account :)
 
 
